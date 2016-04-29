@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hey! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "HELLO": "Hey! So you want to know what kind of phone you should get, huh? Well, what are you looking for? %[Big (5.7 inches)][Medium (5.2 inches)] [Small (4.7 inches0]",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
